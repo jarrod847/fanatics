@@ -1,0 +1,13 @@
+.itemCard {
+  border: solid 5px #3f4441;
+  border-radius: 25px;
+  display: flex;
+  flex-direction: column;
+  width: 25%;
+  text-align: center;
+  margin: 3% 0;
+  button {
+    width: 100px;
+    margin: 0 auto 5px auto;
+  }
+}
